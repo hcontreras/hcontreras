@@ -2,12 +2,12 @@
 
 ## I like to do things on my Mac.
 
-- 😬 I'm currently working on PHP and NodeJS projects.
-- 🤯 Always trying to have a deep understainding of anything I feel atracted to.
-- 🤓 I try to learn everyday something new.
-- 😤 I skiped using Windows since 2005. Now, I'm a Mac & Linux power user.
-- 🤬 I'm a frustrated speed cuber, but I still love Rubik's Cube.
-- 🖥 I've been using VIM for over 10 years.
+- 💻 I'm currently working on PHP and NodeJS projects.
+- 🔍 Always trying to have a deep understainding of anything I feel atracted to.
+- 📝 I try to learn everyday something new.
+- ✅ I skiped using Windows since 2005. Now, I'm a Mac & Linux power user.
+- ⏱ I'm a frustrated speed cuber, but I still love Rubik's Cube.
+- 🖥 I love VIM and I've been using it for over 14 years.
 - ⌨️ I'm currently in a process of switching to Dvorak keyboard layout. (At least for Dev)
 
 ### Connect with me:
